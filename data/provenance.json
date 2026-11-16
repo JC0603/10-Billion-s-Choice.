@@ -1,0 +1,50 @@
+[
+  {
+    "level": "large",
+    "sectors": 33,
+    "file": "io-2023-large.xlsx",
+    "year": 2023,
+    "unit": "백만원",
+    "price": "생산자가격",
+    "bytes": 573493,
+    "sha256": "f8bd6ff77c72b1e88bbfcfbd1957af4207164251089b4de6d9e9c1dbac489b1e",
+    "source": "https://stat.kosis.kr/nsibsHtmlSvc/fileView/FileStbl/fileStblView.do?conn_path=E1&in_org_id=301&in_tbl_id=DT_301010_FILE2023&tab_yn=N",
+    "retrieved": "2026-11-17"
+  },
+  {
+    "level": "medium",
+    "sectors": 83,
+    "file": "io-2023-medium.xlsx",
+    "year": 2023,
+    "unit": "백만원",
+    "price": "생산자가격",
+    "bytes": 1187184,
+    "sha256": "1c1944ed5a6c9970eaf54d1636ea06500115f461c11996cab186d546d4c50a6d",
+    "source": "https://stat.kosis.kr/nsibsHtmlSvc/fileView/FileStbl/fileStblView.do?conn_path=E1&in_org_id=301&in_tbl_id=DT_301010_FILE2023&tab_yn=N",
+    "retrieved": "2026-11-17"
+  },
+  {
+    "level": "small",
+    "sectors": 165,
+    "file": "io-2023-small.xlsx",
+    "year": 2023,
+    "unit": "백만원",
+    "price": "생산자가격",
+    "bytes": 3088907,
+    "sha256": "96a7d847f6455b61f024ab45b22d0c4b0e06942b4a611d22397cab222e92aadb",
+    "source": "https://stat.kosis.kr/nsibsHtmlSvc/fileView/FileStbl/fileStblView.do?conn_path=E1&in_org_id=301&in_tbl_id=DT_301010_FILE2023&tab_yn=N",
+    "retrieved": "2026-11-17"
+  },
+  {
+    "level": "basic",
+    "sectors": 380,
+    "file": "io-2023-basic.xlsx",
+    "year": 2023,
+    "unit": "백만원",
+    "price": "생산자가격",
+    "bytes": 12283018,
+    "sha256": "5eaea6c78591cc43b2ba17b3e71fae492a6b888c1a4c4b2d6cc06db16ee5d631",
+    "source": "https://github.com/profguclass/Sample_IO/blob/main/data/io-2023.xlsx",
+    "retrieved": "2026-11-17"
+  }
+]
